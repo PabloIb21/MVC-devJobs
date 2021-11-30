@@ -1,0 +1,5 @@
+/node_modules
+/config/email.js
+/public/uploads/cv/*
+/public/uploads/perfiles/*
+variables.env
